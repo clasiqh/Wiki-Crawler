@@ -1,4 +1,3 @@
-from http.server import BaseHTTPRequestHandler
 import scrapy
 from scrapy.crawler import CrawlerProcess
 import pandas as pd
